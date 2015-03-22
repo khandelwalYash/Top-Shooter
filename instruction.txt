@@ -1,0 +1,9 @@
+controls
+left and right key --> move left and right
+spacebar -> shoot
+
+camera
+key 1 -> overhead view; 
+key 2 -> player view.... z for zoom in and x for zoom out
+key 3 -> top view
+key 4 -> follow camera
